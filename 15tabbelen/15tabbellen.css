@@ -1,0 +1,11 @@
+table{
+border: 2px solid green;
+}
+th{
+    border: 2px solid red;
+    background: lightgray;
+}
+td{border: 2px solid blue;
+width: 150px ;
+text-align: center;
+padding: 5px;}

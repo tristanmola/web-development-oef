@@ -1,0 +1,22 @@
+header {
+    background-color: red;
+color: white;}
+body{background-color: silver;}
+nav{
+ height: 400px;
+ width: 100px ;
+ background-color: green;
+ color: white;   
+ float: left;
+ margin-right: 50px;
+ margin-bottom: 20px;
+}
+article{background-color: white;
+margin-left: 150px;
+margin-right: 40px;}
+footer{clear: both;
+background-color: blue;
+color: white;}
+
+main{background-color: yellow;
+height: 400px;}

@@ -1,0 +1,13 @@
+table{border: 10px solid gray;
+}
+th{border: 10px solid green;
+background: green;
+color: white;
+text-align: center;
+}
+td{border: 2px solid green;
+text-align: center;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 10px;
+padding-top: 10px;}

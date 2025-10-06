@@ -1,0 +1,9 @@
+body{
+background: silver;}
+header{
+background: yellow;
+height: 50px;}
+article{font-family: verdana;background: blue;color: white;}
+nav{float: right;background: white;height: 150px; width: 200px;}
+footer
+{clear: right;background: yellow;height: 50px;}

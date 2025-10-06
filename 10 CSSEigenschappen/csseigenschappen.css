@@ -1,0 +1,11 @@
+body{font-family: arial; background-color: rgb(182, 182, 182);}
+header{background: yellow;
+height: 100px;}
+nav{background: green;
+width: 200px;
+height: 150px;
+float: left;}
+article{background: red;}
+footer{background: blue;
+color:white;
+clear: both;}
